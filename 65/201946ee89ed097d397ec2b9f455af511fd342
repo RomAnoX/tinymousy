@@ -1,0 +1,75 @@
+.agents/skills/tinyjs/SKILL.md
+  s_ab9503124e8c6b::t_06a0fdb2fde436 1-241
+.agents/skills/tinyjs/references/api.md
+  s_ab9503124e8c6b::t_1fac22f38830f3 1-740
+.agents/skills/tinyjs/references/electron-migration.md
+  s_ab9503124e8c6b::t_8d9ebce72dac1a 1-95
+.agents/skills/tinyjs/references/platforms.md
+  s_ab9503124e8c6b::t_8008b38ce229e3 1-121
+.agents/skills/tinyjs/references/recipes.md
+  s_ab9503124e8c6b::t_16a6b2519cd38d 1-191
+.agents/skills/tinyjs/references/release.md
+  s_ab9503124e8c6b::t_3b84752240f8f4 1-205
+.claude/skills/tinyjs/SKILL.md
+  s_ab9503124e8c6b::t_28e1205fde023a 1-241
+.claude/skills/tinyjs/references/api.md
+  s_ab9503124e8c6b::t_cb4f42f2f4b359 1-740
+.claude/skills/tinyjs/references/electron-migration.md
+  s_ab9503124e8c6b::t_ade6f73e9a4641 1-95
+.claude/skills/tinyjs/references/platforms.md
+  s_ab9503124e8c6b::t_223363ae5070f6 1-121
+.claude/skills/tinyjs/references/recipes.md
+  s_ab9503124e8c6b::t_9a19a3081e61c6 1-191
+.claude/skills/tinyjs/references/release.md
+  s_ab9503124e8c6b::t_05e4a2973f4510 1-205
+.gitignore
+  s_8eabd7e6a9e626::t_4ca8f05d4000e6 1-4
+README.md
+  s_8eabd7e6a9e626::t_6e263ef252608e 1-56
+src/frontend/about.html
+  s_ab9503124e8c6b::t_c34655c530745e 1-30
+src/main.js
+  s_ab9503124e8c6b::t_e1a776625eb7bc 1-92
+tinyjs.json
+  s_ab9503124e8c6b::t_b325150ec906d2 1-9
+types/tiny.d.ts
+  s_ab9503124e8c6b::t_b2e6f0661562d1 1-1857
+types/tjs.d.ts
+  s_ab9503124e8c6b::t_f1e8114378e8cb 1-3706
+.agents/skills/tinyjs/references/performance.md
+  s_ab9503124e8c6b::t_e54a37628f1ffb 1-79
+.claude/skills/tinyjs/references/performance.md
+  s_ab9503124e8c6b::t_9dcf14476c0d14 1-79
+jsconfig.json
+  s_ab9503124e8c6b::t_81cf46d2c13b6c 1-10
+src/frontend/app.js
+  s_ab9503124e8c6b::t_132393174c4a42 1-101
+src/frontend/index.html
+  s_ab9503124e8c6b::t_c768ab019fc470 1-45
+src/frontend/style.css
+  s_ab9503124e8c6b::t_95ee6ad252b786 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "65201946ee89ed097d397ec2b9f455af511fd342",
+  "prompts": {},
+  "sessions": {
+    "s_8eabd7e6a9e626": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "571b3518-cdd1-4fe8-8891-dd62ef74c36e",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ulises Acosta <ulises.xsoft@gmail.com>"
+    },
+    "s_ab9503124e8c6b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2fce60f0-7252-4a99-867d-9738618e0b3a",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ulises Acosta <ulises.xsoft@gmail.com>"
+    }
+  }
+}
