@@ -23,6 +23,14 @@ Teams flips you to "Away" after a few minutes without input. Your Mac locks the 
 - **At-a-glance status**: the tray icon changes when it's running
 - **Tiny**: about 90 lines of JavaScript, built with tinyjs and a native webview, no Electron
 
+## Download
+
+Grab the latest build from the [Releases page](https://github.com/RomAnoX/tinymousy/releases/latest) (`tinymousy-0.1.0-macos.zip`, universal binary for Apple Silicon and Intel).
+
+1. Unzip and move `tinymousy.app` to Applications.
+2. Open it. The app isn't notarized, so if macOS blocks it, right-click the app and choose **Open**, or run `xattr -dr com.apple.quarantine /Applications/tinymousy.app`.
+3. Grant Accessibility access when asked (see below).
+
 ## Usage
 
 1. Click the mouse icon in the menu bar.
