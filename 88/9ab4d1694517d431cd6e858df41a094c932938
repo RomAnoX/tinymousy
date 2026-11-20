@@ -1,0 +1,21 @@
+LICENSE
+  s_8eabd7e6a9e626::t_e99785c24f056d 1-21
+README.md
+  s_8eabd7e6a9e626::t_07ecd799542bc6 57-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "889ab4d1694517d431cd6e858df41a094c932938",
+  "prompts": {},
+  "sessions": {
+    "s_8eabd7e6a9e626": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "571b3518-cdd1-4fe8-8891-dd62ef74c36e",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Ulises Acosta <ulises.xsoft@gmail.com>"
+    }
+  }
+}
