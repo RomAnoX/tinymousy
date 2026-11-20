@@ -2,3 +2,5 @@
 dist/
 .remember/
 .DS_Store
+.agents/
+.claude/
