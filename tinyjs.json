@@ -1,0 +1,9 @@
+{
+  "name": "tinymousy",
+  "title": "tinymousy",
+  "size": "960x640",
+  "id": "com.example.tinymousy",
+  "version": "0.1.0",
+  "minTinyjsVersion": "0.42.2",
+  "activation": "accessory"
+}
