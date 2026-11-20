@@ -54,3 +54,7 @@ macOS only.
 ## Disclaimer
 
 Use it responsibly. Check your employer's policies on activity-status tools before relying on it.
+
+## License
+
+[MIT](LICENSE)
